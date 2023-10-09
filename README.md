@@ -1,1 +1,2 @@
-# LearningNotes
+## 说明：
+LearningNotes是一个记录学习路上所涉及的各个分类知识点的仓库，归纳总结出自己的经验教训
